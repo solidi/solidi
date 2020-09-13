@@ -1,4 +1,12 @@
-### Hi there 👋
+# About
+
+Doug Arcuri is an engineering manager from Long Island, New York.
+
+# Links
+
+1. [Twitter](https://twitter.com/dougarcuri)
+1. [Medium](https://medium.com/@solidi)
+1. [Dev.to](https://dev.to/solidi)
 
 <!--
 **solidi/solidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
