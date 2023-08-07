@@ -1,6 +1,6 @@
 # About
 
-Doug Arcuri is an engineering manager from Long Island, New York.
+I enjoy developing retro game modifications, writing about software, and other interesting meta stories.
 
 # Links
 
